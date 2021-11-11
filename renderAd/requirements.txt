@@ -1,0 +1,7 @@
+PyQt5==5.15.2
+uiautomator2==2.15.1
+click==7.1.2
+
+
+
+

@@ -1,0 +1,16 @@
+
+
+1 先下载支持版本的Riru 和 插件，用Magisk的本地文件安装方式安装
+2 将twitter.js   twitter.config  放入/data/local/tmp/frida_scripts/ 目录下
+3 将_white_list.config 放入/data/local/tmp/ 目录下
+4 端口转发  adb forward tcp:30000 tcp:30000
+5 启动目标app  打开client
+
+
+
+
+
+
+
+
+
